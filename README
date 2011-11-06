@@ -1,7 +1,9 @@
-
 # to build:
 cd ./peaches
 grails war
+
+
+ ------------------------------
 
 # Just a place to put some ideas
 
