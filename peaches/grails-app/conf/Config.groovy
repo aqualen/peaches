@@ -66,7 +66,7 @@ environments {
     }
     production {
         grails.logging.jul.usebridge = false
-        grails.serverURL = "http://www.changeme.com"
+        grails.serverURL = "http://192.168.1.100:8888/peaches-0.1"
     }
 }
 
