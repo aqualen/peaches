@@ -1,13 +1,13 @@
-# to build:
-cd ./peaches
-grails war
+To Build
+--------
+* cd ./peaches
+* grails war
 
 
- ------------------------------
 
-# Just a place to put some ideas
 
 1st Iteration:
+--------------
 
  - Grails Shell App: "Welcome to Peaches"
 
@@ -17,6 +17,7 @@ grails war
 
 
 2nd Iteration
+-------------
 
  - Planting Table
 
