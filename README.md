@@ -21,3 +21,15 @@ To Build
 
  - Planting Table
 
+3rd Iteration
+-------------
+
+ - Upgrade to grails 2.3.5
+ - Plant Table
+    Crop
+    Variety
+    Maturity (days)
+    Link
+    Season
+    Comment
+    
