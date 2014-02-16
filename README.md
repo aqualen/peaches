@@ -25,11 +25,14 @@ To Build
 -------------
 
  - Upgrade to grails 2.3.5
+ - Fix grails getVersion bug in index.gsp
+
+ TODO: 
  - Plant Table
-    Crop
-    Variety
-    Maturity (days)
-    Link
-    Season
-    Comment
+  * Crop
+  * Variety
+  * Maturity (days)
+  * Link
+  * Season
+  * Comment
     
